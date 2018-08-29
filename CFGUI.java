@@ -36,7 +36,7 @@ public class CFGUI extends JFrame
 		panel = new CFPanel();
 		content.add(panel);
 		panel.setBounds(0, 0, x, y);
-		panel.setBackground(Color.yellow);
+		panel.setBackground(Color.yellow); 
 
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 

@@ -35,7 +35,7 @@ public class GIO
 			try
 			{
 				return Integer.parseInt(s);
-	 		}
+	 		} 
 			catch (NumberFormatException e)
 			{
 				s = JOptionPane.showInputDialog("That is not an integer.  Enter again: ");

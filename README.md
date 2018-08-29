@@ -1,3 +1,3 @@
 # Projects
 
-This is to record my projects
+This is a connect four game
